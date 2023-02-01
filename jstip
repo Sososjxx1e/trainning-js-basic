@@ -1,0 +1,50 @@
+js tip needed:
+              <Read, Read, Read...> is the most important this is very needed for developer
+              
+              Use Arrow Functions  because react :))
+              
+              Put JavaScript in a Separate File
+               
+              Learn Unit Testing
+
+Use Splice to Remove Items From an Array
+
+Embrace Progressive Enhancement
+
+Comment Your Code
+
+using lodash libary
+
+1. Use === Instead of ==
+
+ eval() Is Bad
+ 
+ . Don't Use Shorthand
+ 
+ Place Scripts at the Bottom of Your Page
+ 
+  Declare Variables Outside of the For Statement
+  
+  The Fastest Way to Build a String
+        VD: let arr = ['item 1', 'item 2', 'item 3', ...];
+            let list = '<ul><li>' + arr.join('</li><li>') + '</li></ul>';
+Reduce Globals
+
+Consider Using let and const
+
+Don't Pass a String to setInterval or setTimeOut
+
+Use the Spread Operator(....)
+
+ Be Careful With for ... in Statements
+ 
+ Iterators and for ... of Loops
+ 
+ 
+ // advanced tip with js advanced
+ 
+ async and await
+ Use Regex When Extracting or Working With Strings
+ 
+                                       // end i will update more
+ 
